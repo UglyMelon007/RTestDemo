@@ -9,8 +9,8 @@ R是一种为统计计算和绘图而生的语言和环境.是 一套开源的�
 C+X+O #代码补全  
 
 ##DemoOne(加载分隔符式文本文件即csv文件)
-T = TRUE
-F = FALSE
-Shift+- = <-
-as.vector() 向量转为字符型
-as.numeric() 向量转为数字
+T = TRUE  
+F = FALSE  
+Shift+- = <-  
+as.vector() 向量转为字符型  
+as.numeric() 向量转为数字  

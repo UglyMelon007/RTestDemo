@@ -14,3 +14,7 @@ F = FALSE
 Shift+- = <-  
 as.vector() 向量转为字符型  
 as.numeric() 向量转为数字  
+
+##DemoTwo(从Excel文件、SPSS文件中加载数据)
+* [SPSS](http://baike.baidu.com/link?url=ibkj5Z1IrwqfdrNXF1hmH_AfMps04RvxkRQvArY2-w0SLeLAyRiD2vh7_6hO4BMb2mK7U5AEaKR1_dmlBdc6k_):为一个统计软件，生成的文件以扩展名为.sav
+
